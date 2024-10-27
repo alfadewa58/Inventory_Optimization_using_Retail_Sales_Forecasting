@@ -2,7 +2,7 @@
 By Alfa Isa Dewa
 
 
-Notebook ini berfokus pada prediksi penjualan ritel untuk mendukung manajemen persediaan yang lebih efisien dan meningkatkan tingkat layanan pelanggan.
+Notebook ini berfokus pada prediksi sales ritel untuk mendukung manajemen persediaan yang lebih efisien dan meningkatkan tingkat layanan pelanggan.
 
 ## Deskripsi Proyek
 
